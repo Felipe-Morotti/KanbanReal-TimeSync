@@ -1,0 +1,1 @@
+//Configurações de banco de dados (MySQL) e variáveis de ambiente.

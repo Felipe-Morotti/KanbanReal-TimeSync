@@ -1,0 +1,1 @@
+//Definição das tabelas e interações diretas com o SQL.
