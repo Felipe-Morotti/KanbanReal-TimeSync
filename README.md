@@ -1,1 +1,2 @@
 # KanbanReal-TimeSync
+Em desenvolvimento
